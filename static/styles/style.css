@@ -25,12 +25,12 @@ button {
 
 @media screen and (max-width: 576px) {
     body {
-        background-color: aqua;
+
         font-size: 1.5rem;
     }
 
     input {
-        max-width: 30vh;
+        max-width: 40vh;
     }
 
     button {
